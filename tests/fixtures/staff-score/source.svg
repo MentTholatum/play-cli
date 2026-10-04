@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="white"/>
+  <g fill="black" font-family="Arial, sans-serif">
+    <text x="65" y="65" font-size="30">PLAY CLI — Staff Study No. 1</text>
+    <text x="270" y="150" font-size="26">♩ = 120</text>
+    <text x="65" y="680" font-size="16">Original monophonic test score · PLAY CLI contributors · CC0-1.0</text>
+  </g>
+  <g stroke="black" fill="none" stroke-width="1.5">
+    <path d="M80 200H1080 M80 216H1080 M80 232H1080 M80 248H1080 M80 264H1080"/>
+    <path d="M80 490H1080 M80 506H1080 M80 522H1080 M80 538H1080 M80 554H1080"/>
+    <path d="M80 200V264 M240 200V264 M247 200V264 M600 200V264 M1070 200V264 M1080 200V264"/>
+    <path d="M80 490V554 M600 490V554 M1070 490V554 M1080 490V554"/>
+    <path d="M311 256V190 L386 184V248 M471 240V188 M551 232V180 Q577 197 558 211"/>
+    <path d="M721 224V174 M831 224V174 M710 242Q765 280 820 242"/>
+    <path d="M311 546V496 M411 546V496 M511 538V488 M761 546V496"/>
+  </g>
+  <g font-family="Apple Symbols, serif" fill="black">
+    <text x="100" y="259" font-size="88">𝄞</text><text x="100" y="549" font-size="88">𝄞</text>
+    <text x="164" y="210" font-size="34">♯</text><text x="164" y="500" font-size="34">♯</text>
+    <text x="197" y="228" font-size="32">3</text><text x="197" y="258" font-size="32">4</text>
+    <text x="197" y="518" font-size="32">3</text><text x="197" y="548" font-size="32">4</text>
+    <text x="267" y="557" font-size="34">♮</text>
+  </g>
+  <g fill="black">
+    <path d="M936 210L948 222L940 231L950 244Q935 237 937 246Q938 251 944 255Q928 251 932 241Q935 235 943 239L932 229L940 220Z"/>
+    <path d="M311 190L386 184V191L311 197Z"/>
+    <ellipse cx="300" cy="256" rx="11" ry="7" transform="rotate(-15 300 256)"/>
+    <ellipse cx="375" cy="248" rx="11" ry="7" transform="rotate(-15 375 248)"/>
+    <ellipse cx="460" cy="240" rx="11" ry="7" transform="rotate(-15 460 240)"/>
+    <ellipse cx="540" cy="232" rx="11" ry="7" transform="rotate(-15 540 232)"/>
+    <ellipse cx="710" cy="224" rx="11" ry="7" transform="rotate(-15 710 224)"/>
+    <ellipse cx="820" cy="224" rx="11" ry="7" transform="rotate(-15 820 224)"/>
+    <ellipse cx="300" cy="546" rx="11" ry="7" transform="rotate(-15 300 546)"/>
+    <ellipse cx="400" cy="546" rx="11" ry="7" transform="rotate(-15 400 546)"/>
+    <ellipse cx="500" cy="538" rx="11" ry="7" transform="rotate(-15 500 538)"/>
+    <circle cx="481" cy="238" r="3"/><circle cx="775" cy="544" r="3"/>
+    <circle cx="259" cy="224" r="3"/><circle cx="259" cy="240" r="3"/>
+    <circle cx="1058" cy="224" r="3"/><circle cx="1058" cy="240" r="3"/>
+  </g>
+  <ellipse cx="750" cy="546" rx="11" ry="7" fill="white" stroke="black" stroke-width="2" transform="rotate(-15 750 546)"/>
+</svg>

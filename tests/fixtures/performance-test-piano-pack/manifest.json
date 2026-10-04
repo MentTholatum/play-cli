@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.2",
+  "id": "play-cli-performance-test-piano",
+  "version": "1.0.0",
+  "license": {
+    "id": "CC0-1.0",
+    "file": "LICENSE",
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "complete_text": true
+  },
+  "source": {
+    "uri": "urn:play-cli:performance-test-piano-generator",
+    "revision": {
+      "type": "version",
+      "value": "1.0"
+    }
+  },
+  "attribution": "PLAY CLI contributors",
+  "modifications": [
+    "Deterministic synthesized fixture; not production piano audio."
+  ],
+  "generator": {
+    "version": "1.0",
+    "command": ".venv/bin/python tests/fixtures/performance-test-piano-pack/generate_pack.py"
+  },
+  "samples": {
+    "56": {
+      "path": "samples/midi-56.wav",
+      "sha256": "e37d9e468c10182a626879148bc1a391c6a2f5b5ccbe2cd02f5692c223747dce",
+      "byte_size": 80044,
+      "format": "PCM_S16LE",
+      "sample_rate_hz": 16000,
+      "channels": 1,
+      "frames": 40000
+    },
+    "60": {
+      "path": "samples/midi-60.wav",
+      "sha256": "df4319660da4e6fc9c403a8fc12c3d14067ffd37bf2f7e15db42b6a313ff5f71",
+      "byte_size": 16044,
+      "format": "PCM_S16LE",
+      "sample_rate_hz": 16000,
+      "channels": 1,
+      "frames": 8000
+    },
+    "78": {
+      "path": "samples/midi-78.wav",
+      "sha256": "9a94722e78aa8f3f7b8a0bbfe3360f67c126394c1ce79849cb29a81df4b5013c",
+      "byte_size": 28844,
+      "format": "PCM_S16LE",
+      "sample_rate_hz": 16000,
+      "channels": 1,
+      "frames": 14400
+    }
+  }
+}

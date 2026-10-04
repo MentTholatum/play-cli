@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="white"/>
+  <g fill="black" font-family="Arial, sans-serif">
+    <text x="65" y="60" font-size="30">PLAY CLI — Numbered Study No. 1</text>
+    <text x="65" y="470" font-size="16">Original monophonic test score · PLAY CLI contributors · CC0-1.0</text>
+    <g font-size="48" text-anchor="middle">
+      <text x="150" y="215">1</text><text x="270" y="215">2</text>
+      <text x="302" y="208" font-size="32">·</text>
+      <text x="380" y="215">3</text><text x="475" y="215">0</text>
+      <text x="620" y="215">4</text><text x="587" y="208" font-size="30">♯</text>
+      <text x="710" y="215">5</text><text x="825" y="215">1</text>
+      <text x="920" y="215">1</text><text x="1000" y="215">–</text>
+      <text x="150" y="360">1</text><text x="270" y="360">7</text>
+      <text x="390" y="360">1</text><text x="510" y="360">–</text>
+    </g>
+  </g>
+  <g stroke="black" fill="none" stroke-width="2">
+    <path d="M80 165V230 M90 165V230 M540 165V230 M1060 165V230 M1070 165V230"/>
+    <path d="M365 224H395 M605 224H725 M812 172Q870 120 933 172"/>
+    <path d="M80 310V375 M600 310V375 M610 310V375"/>
+  </g>
+  <g fill="black">
+    <circle cx="104" cy="185" r="3"/><circle cx="104" cy="209" r="3"/>
+    <circle cx="1046" cy="185" r="3"/><circle cx="1046" cy="209" r="3"/>
+    <circle cx="825" cy="161" r="3"/><circle cx="920" cy="161" r="3"/>
+    <circle cx="270" cy="381" r="3"/>
+  </g>
+</svg>

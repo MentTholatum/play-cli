@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="850" viewBox="0 0 1000 850">
+<rect width="1000" height="850" fill="white"/>
+<text x="60" y="60" font-size="28">Two-voice Study — page 1 of 2</text>
+<text x="60" y="95" font-size="18">Quarter note = 100 · C major · 4/4</text>
+<g transform="translate(0 0)">
+<text x="250" y="150" font-size="18">Measure 1</text>
+<g stroke="black" fill="none"><path d="M100 180H850 M100 196H850 M100 212H850 M100 228H850 M100 244H850 M100 310H850 M100 326H850 M100 342H850 M100 358H850 M100 374H850 M100 180V374 M850 180V374"/>
+<path d="M283 260H317 M583 260H617 M311 260V205 M461 172V225 M611 260V205 M761 172V225"/>
+</g>
+<g font-family="Apple Symbols,serif"><text x="110" y="239" font-size="82">𝄞</text><text x="110" y="358" font-size="65">𝄢</text>
+<text x="193" y="211" font-size="28">4</text><text x="193" y="241" font-size="28">4</text><text x="193" y="341" font-size="28">4</text><text x="193" y="371" font-size="28">4</text>
+<text x="425" y="181" font-size="30">♯</text><text x="270" y="319" font-size="30">♭</text></g>
+<g fill="black"><ellipse cx="300" cy="260" rx="11" ry="7"/><ellipse cx="450" cy="172" rx="11" ry="7"/><ellipse cx="600" cy="260" rx="11" ry="7"/><ellipse cx="750" cy="172" rx="11" ry="7"/></g>
+<ellipse cx="300" cy="310" rx="13" ry="8" fill="white" stroke="black" stroke-width="3"/>
+</g>
+<g transform="translate(0 330)">
+<text x="250" y="150" font-size="18">Measure 2</text>
+<g stroke="black" fill="none"><path d="M100 180H850 M100 196H850 M100 212H850 M100 228H850 M100 244H850 M100 310H850 M100 326H850 M100 342H850 M100 358H850 M100 374H850 M100 180V374 M850 180V374"/>
+<path d="M283 260H317 M583 260H617 M311 260V205 M461 172V225 M611 260V205 M761 172V225"/>
+</g>
+<g font-family="Apple Symbols,serif"><text x="110" y="239" font-size="82">𝄞</text><text x="110" y="358" font-size="65">𝄢</text>
+<text x="193" y="211" font-size="28">4</text><text x="193" y="241" font-size="28">4</text><text x="193" y="341" font-size="28">4</text><text x="193" y="371" font-size="28">4</text>
+<text x="425" y="181" font-size="30">♯</text><text x="270" y="319" font-size="30">♭</text></g>
+<g fill="black"><ellipse cx="300" cy="260" rx="11" ry="7"/><ellipse cx="450" cy="172" rx="11" ry="7"/><ellipse cx="600" cy="260" rx="11" ry="7"/><ellipse cx="750" cy="172" rx="11" ry="7"/></g>
+<ellipse cx="300" cy="310" rx="13" ry="8" fill="white" stroke="black" stroke-width="3"/>
+</g>
+<text x="60" y="810" font-size="15">Original test study · PLAY CLI contributors · CC0-1.0</text>
+</svg>

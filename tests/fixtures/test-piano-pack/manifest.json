@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.2",
+  "id": "play-cli-test-piano",
+  "version": "1.0.0",
+  "license": {
+    "id": "CC0-1.0",
+    "file": "LICENSE",
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "complete_text": true
+  },
+  "source": {
+    "uri": "urn:play-cli:test-piano-generator",
+    "revision": {
+      "type": "version",
+      "value": "1.1"
+    }
+  },
+  "attribution": "PLAY CLI contributors",
+  "modifications": [],
+  "generator": {
+    "version": "1.1",
+    "command": ".venv/bin/python tests/fixtures/test-piano-pack/generate_sample.py"
+  },
+  "samples": {
+    "60": {
+      "path": "samples/c4.wav",
+      "sha256": "a8443684b60318df7975e7d2fbc7fa3cf10a715ee2d946e2d84b0c34c9911dcd",
+      "byte_size": 16044,
+      "format": "PCM_S16LE",
+      "sample_rate_hz": 16000,
+      "channels": 1,
+      "frames": 8000
+    }
+  }
+}

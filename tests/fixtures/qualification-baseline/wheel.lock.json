@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "project": "play-cli",
+  "version": "0.7.0",
+  "git_commit": "2860da46c1e58dfbd27f5276fc042711c4433161",
+  "wheel_sha256": "5b0358ea367f59132ad6772b4540aa1c2e6b60545bc79535ef384e9944d9bc91",
+  "files": [
+    {
+      "path": "play_cli-0.7.0.dist-info/METADATA",
+      "byte_size": 500,
+      "sha256": "db0233165d6ce2becbd18e45b7df3ccaf560fbe72710837bd06c31f3056f9b17"
+    },
+    {
+      "path": "play_cli-0.7.0.dist-info/RECORD",
+      "byte_size": 1438,
+      "sha256": "9dcb55edc7f22ee60288d501494298cb0b5f18e0f904943f39525f0fd22434a0"
+    },
+    {
+      "path": "play_cli-0.7.0.dist-info/WHEEL",
+      "byte_size": 91,
+      "sha256": "61532836a2b3111b7ec23519c09df7c41180c27165fb872a6d8913b566b88ad1"
+    },
+    {
+      "path": "play_cli-0.7.0.dist-info/entry_points.txt",
+      "byte_size": 46,
+      "sha256": "f9fa04c33d88d49d66a14cffa7669341a655b716475ba1e9068b939e29d6dffc"
+    },
+    {
+      "path": "play_cli-0.7.0.dist-info/licenses/LICENSE",
+      "byte_size": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "play_cli-0.7.0.dist-info/top_level.txt",
+      "byte_size": 9,
+      "sha256": "18d2926b96be69b15cb6fcfacd316bac0a14724b3f09ab5c2dd781f9af093cc3"
+    },
+    {
+      "path": "play_cli/__init__.py",
+      "byte_size": 22,
+      "sha256": "45a00d19b46ee5efaf7a1c17235f907b68203cf7ecd5341a663d3bd8975b2e4e"
+    },
+    {
+      "path": "play_cli/audio.py",
+      "byte_size": 1596,
+      "sha256": "f1e7a3c6ea4ddc3281e953e4e7951517dc95ce1299084db00097660ef1a329e5"
+    },
+    {
+      "path": "play_cli/cli.py",
+      "byte_size": 21626,
+      "sha256": "2b77338967a5c411c3ae46a760bf4eb96ae99f1d6f0472b6f610e2e314a0c141"
+    },
+    {
+      "path": "play_cli/contract.py",
+      "byte_size": 2591,
+      "sha256": "6d57f0a84b8c6970cd7eb9521a542cec63b96b1dbb6aabaddf733bfde879a4ac"
+    },
+    {
+      "path": "play_cli/machine_contract.py",
+      "byte_size": 1419,
+      "sha256": "161136f43dadf4464d944670584079e8c75a10cf3838c88adeb19aeefa5e0ab6"
+    },
+    {
+      "path": "play_cli/playback.py",
+      "byte_size": 1701,
+      "sha256": "a60fd72ad6f9305b78e73f272704e2616349ec4a279044aba459cc57a8e2203e"
+    },
+    {
+      "path": "play_cli/renderer.py",
+      "byte_size": 7822,
+      "sha256": "a610a98062186d5f02b6bc72f97080c00308b368740d1b112042ee353492a89c"
+    },
+    {
+      "path": "play_cli/result_bundle.py",
+      "byte_size": 27334,
+      "sha256": "f2260e4e5848e00b1814b686d70a91abac4afe6c53c371ee898c7a7f76f45a45"
+    },
+    {
+      "path": "play_cli/revisions.py",
+      "byte_size": 17065,
+      "sha256": "3c3efa3b643a93610ab088b798820710a2ce4ff3191d05925d31ac4015920509"
+    },
+    {
+      "path": "play_cli/score.py",
+      "byte_size": 28104,
+      "sha256": "594ed4cd971939253f14fcad4acc82ce972cfb10665b93a3e31f13579bb9c4ae"
+    },
+    {
+      "path": "play_cli/sound_pack.py",
+      "byte_size": 38615,
+      "sha256": "990b6ee05e8db951d05aee49c4428d6a2ca263886a6006f45ce874c830121d08"
+    },
+    {
+      "path": "play_cli/sound_pack_storage.py",
+      "byte_size": 12770,
+      "sha256": "d08cd9535f48d8540fa130dbe556754bc29236a4e7e2a30eba048df4adb61fac"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+recursive-include tests/fixtures *
+include tests/__init__.py
+include tests/agent_contract.py
+include tests/qualification_baseline.py
+recursive-include standards *.json
+recursive-include tools *.py
+recursive-include skills/play-cli *.md
+prune .scratch
+prune .tmp

@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "profile": "play-cli-standard-piano-builder-fixture",
+  "license": {
+    "id": "CC0-1.0",
+    "file": "LICENSE",
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "complete_text": true
+  },
+  "repository": "urn:play-cli:standard-piano-builder-fixture",
+  "revision": "1.0.0",
+  "tree": "0000000000000000000000000000000000000000",
+  "acquisition_method": "Generated deterministically from the repository CC0 fixture WAV at test runtime.",
+  "sample_template": {
+    "path": "Samples/root{index:02d}v8.wav",
+    "byte_size": 48044,
+    "git_blob_oid": "a913ac9e25a5b47f9b03092c4ad7754c2f6498f2",
+    "sha256": "4d02bc128a555fadca27c972683d44a430d39a4183230a79e19d3bf760bca65b",
+    "count": 30
+  },
+  "metadata_files": [
+    {
+      "path": "LICENSE",
+      "byte_size": 7048,
+      "git_blob_oid": "0e259d42c996742e9e3cba14c677129b2c1b6311",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "README.md",
+      "byte_size": 23,
+      "git_blob_oid": "1f7089a4c51ac0e7414045d64736993db5984001",
+      "sha256": "20b4569560175c31c379be90c23ec212de0ab7dac582e16513009b41978e3ec7"
+    },
+    {
+      "path": "Salamander Grand Piano V3.sfz",
+      "byte_size": 23,
+      "git_blob_oid": "1f7089a4c51ac0e7414045d64736993db5984001",
+      "sha256": "20b4569560175c31c379be90c23ec212de0ab7dac582e16513009b41978e3ec7"
+    },
+    {
+      "path": "Data/notes.txt",
+      "byte_size": 44,
+      "git_blob_oid": "2b7a247dcfacebb307107c42f116ba698d36fc07",
+      "sha256": "223ad880280e44cda6b4aceb1bb3a8b0e83c4dc1e7cc485636418187e09eeaa8"
+    },
+    {
+      "path": "Data/region.txt",
+      "byte_size": 2560,
+      "git_blob_oid": "5362cb2ac7fc6193cef9772bfd398bcaa755168f",
+      "sha256": "512a0ffb2e90d3f63363c9a049e78fbd8e16c4957557ecce4a319b4af852fac3"
+    },
+    {
+      "path": "Data/vel_08.txt",
+      "byte_size": 510,
+      "git_blob_oid": "084bc10d86367cdb60b1bed539afa2b7bb2a8fc2",
+      "sha256": "500523505ed26b2899919dbbca22879f3ff62748a3a2f88ccd735ce4cb1bf203"
+    },
+    {
+      "path": "Data/tune_nat.txt",
+      "byte_size": 540,
+      "git_blob_oid": "3f0d7b529126099a9ca90d53a8d1e0d0d7a28b47",
+      "sha256": "19280f92aa10c1c31acb6ba71a7e494ab3a1dca119b687e926e2d3d3e57553e1"
+    }
+  ],
+  "selected_bytes": 1452068
+}

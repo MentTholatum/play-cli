@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score-partwise version="4.0">
+  <identification>
+    <encoding>
+      <software>PLAY CLI test fixture</software>
+    </encoding>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction>
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>120</per-minute>
+          </metronome>
+        </direction-type>
+        <voice>1</voice>
+        <sound tempo="120"/>
+      </direction>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+      </note>
+    </measure>
+    <measure number="2">
+      <print new-system="yes"/>
+      <attributes>
+        <divisions>4</divisions>
+      </attributes>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>1</voice>
+        <tie type="start"/>
+        <type>half</type>
+        <dot/>
+        <notations>
+          <tied type="start" id="tie-start-1" bezier-offset="1" bezier-offset2="2"
+                bezier-x="3" bezier-y="4" bezier-x2="5" bezier-y2="6"
+                color="#000000" dash-length="2" default-x="10" default-y="20"
+                line-type="dashed" number="1" orientation="over" placement="above"
+                relative-x="1" relative-y="-1" space-length="1"/>
+        </notations>
+      </note>
+    </measure>
+    <measure number="3">
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <tie type="start"/>
+        <tie type="stop"/>
+        <type>quarter</type>
+        <notations>
+          <tied type="start" id="tie-start-2"/>
+          <tied type="stop" id="tie-stop-1"/>
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <tie type="stop"/>
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" id="tie-stop-2"/>
+        </notations>
+      </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

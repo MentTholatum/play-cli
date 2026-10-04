@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "record_type": "human-listening-acceptance",
+  "status": "accepted",
+  "decision_date": "2026-09-12",
+  "decision_source": "agent_user_feedback",
+  "conclusion_verbatim": "听感通过",
+  "acceptance_scope": {
+    "audience": "non_music_professional_agent_users",
+    "assessment": "experience_listening_acceptance",
+    "professional_acoustic_evaluation": false
+  },
+  "audition_wav_sha256": "589c795b2cd172be6e3ab6b432ddaa57a2173c5114ff1b6e91631e59decca127",
+  "qualification_record": {
+    "path": "standards/salamander-3382bf9496bba2486f5ab0de55a264d1dfc38404.qualification.json",
+    "sha256": "59dd8d18e49dceb1196e46bdb88106b0a4b6cc19964b84caabc729c5987411d0"
+  },
+  "distribution": {
+    "approval": "approved_for_separate_distribution",
+    "external_publication": "not_published",
+    "bundled_with_play_cli": false
+  }
+}
